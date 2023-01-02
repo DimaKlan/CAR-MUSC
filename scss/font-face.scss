@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'ReformaGroteskMediumC';
+	src: url('../fonts/ReformaGroteskMediumC.eot');
+	src: local('../fonts/ReformaGroteskMediumC'),
+		url('../fonts/ReformaGroteskMediumC.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/ReformaGroteskMediumC.woff') format('woff'),
+		url('../fonts/ReformaGroteskMediumC.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ReformaGroteskDemiC';
+	src: url('../fonts/ReformaGroteskDemiC.eot');
+	src: local('../fonts/ReformaGroteskDemiC'),
+		url('../fonts/ReformaGroteskDemiC.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/ReformaGroteskDemiC.woff') format('woff'),
+		url('../fonts/ReformaGroteskDemiC.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ReformaGroteskBoldC';
+	src: url('../fonts/ReformaGroteskBoldC.eot');
+	src: local('../fonts/ReformaGroteskBoldC'),
+		url('../fonts/ReformaGroteskBoldC.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/ReformaGroteskBoldC.woff') format('woff'),
+		url('../fonts/ReformaGroteskBoldC.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
